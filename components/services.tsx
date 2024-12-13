@@ -19,10 +19,7 @@ const ServiceSection = () => {
                                                     style={{ position: 'relative', display: 'inline-block' }}>c</div><div
                                                         style={{ position: 'relative', display: 'inline-block' }}>e</div><div
                                                             style={{ position: 'relative', display: 'inline-block' }}>s</div></h2></div></div></header>
-            {/* <!-- <div
-                class="pin-spacer"
-                style="order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: block; margin: 0px; inset: 0px; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 1667px; height: 2488px; padding: 0px 0px 1658px;">
-            </div> --> */}
+
             <div
                 className="styles_services__container__d1s9_"
                 style={{ translate: 'none', rotate: 'none', scale: 'none', inset: '0px auto auto 0px', margin: '0px', padding: '0px' }}><div
@@ -36,7 +33,7 @@ const ServiceSection = () => {
                                     style={{ translate: 'none', rotate: 'none', scale: 'none', transform: 'translate(0px, 100%)' }}></span></div><a
                                         aria-label="Go-To-Market Strategy 
 &amp; Integration" className="js-internal-link styles_service__link__mJn6f"
-                                        href="https://www.bethebuzz.co/services/go-to-market-strategy-and-integration"></a><div
+                                        href="/lighting"></a><div
                                             className="styles_service__wrapperShape__PruBR title-50"
                                             style={{ translate: 'none', rotate: 'none', scale: 'none' }}><div
                                                 className="styles_service__shapeParent__faahW shape-parent"
@@ -61,29 +58,19 @@ const ServiceSection = () => {
                                                             className="styles_service__heading__JBwUp title title-50"><a
                                                                 aria-label="Go-To-Market Strategy 
 &amp; Integration" className="js-internal-link"
-                                                                href="https://www.bethebuzz.co/services/go-to-market-strategy-and-integration"><div
+                                                                href="/lighting"><div
                                                                 ><div
                                                                     style={{ display: 'block', textAlign: 'center', position: 'relative', overflow: 'hidden' }}><div
                                                                         style={{ position: 'relative', display: 'inline-block', translate: 'none', rotate: 'none', scale: 'none' }}
                                                                         className="title-word">Lighting</div>
-                                                                        {/* <div
-                                                                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none;;"
-                                                                            class="title-word">Strategy</div> */}
+
                                                                     </div>
-                                                                    {/*  <div
-                                                                        style="display: block; text-align: center; position: relative; overflow: hidden;">
-                                                                        <!-- <div
-                                                                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 100%);"
-                                                                            class="title-word">&amp;</div> -->
-                                                                        <!-- <div
-                                                                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 100%);"
-                                                                            class="title-word">Integration</div>
-                                                                    </div> */}
+
                                                                 </div></a></h3><a
                                                                     aria-label="Go-To-Market Strategy 
 &amp; Integration"
                                                                     className="styles_button__oaMA0 styles_arrows__f1d_B styles_service__button__5Ldof js-internal-link"
-                                                                    href="https://www.bethebuzz.co/services/go-to-market-strategy-and-integration"><div><svg
+                                                                    href="/lighting"><div><svg
                                                                         viewBox="0 0 12 10"
                                                                         fill="none"><path
                                                                             d="M6.7 1l3.9 4m0 0L6.7 9m3.9-4H1"
@@ -116,7 +103,7 @@ const ServiceSection = () => {
                                     style={{ translate: 'none', rotate: 'none', scale: 'none', transform: 'translate(0px, 100%)' }}></span></div><a
                                         aria-label="Digital Marketing 
 Program Execution" className="js-internal-link styles_service__link__mJn6f"
-                                        href="https://www.bethebuzz.co/services/digital-marketing-program-execution"></a><div
+                                        href="/curb"></a><div
                                             className="styles_service__wrapperShape__PruBR title-50"
                                             style={{ translate: 'none', rotate: 'none', scale: 'none' }}><div
                                                 className="styles_service__shapeParent__faahW shape-parent"
@@ -141,11 +128,11 @@ Program Execution" className="js-internal-link styles_service__link__mJn6f"
                                                             className="styles_service__heading__JBwUp title title-50"><a
                                                                 aria-label="Digital Marketing 
 Program Execution" className="js-internal-link"
-                                                                href="https://www.bethebuzz.co/services/digital-marketing-program-execution"><div
+                                                                href="/curb"><div
                                                                 ><div
                                                                     style={{ display: 'block', textAlign: 'center', position: 'relative', overflow: 'hidden' }}><div
                                                                         style={{ position: 'relative', display: 'inline-block', translate: 'none', rotate: 'none', scale: 'none' }}
-                                                                        className="title-word">Custom</div>
+                                                                        className="title-word">Custom</div> <br />
                                                                         <div
                                                                             style={{ position: 'relative', display: 'inline-block', translate: 'none', rotate: 'none', scale: 'none' }}
                                                                             className="title-word">Curbing</div>
@@ -154,7 +141,7 @@ Program Execution" className="js-internal-link"
                                                                     aria-label="Digital Marketing 
 Program Execution"
                                                                     className="styles_button__oaMA0 styles_arrows__f1d_B styles_service__button__5Ldof js-internal-link"
-                                                                    href="https://www.bethebuzz.co/services/digital-marketing-program-execution"><div><svg
+                                                                    href="/curb"><div><svg
                                                                         viewBox="0 0 12 10"
                                                                         fill="none"><path
                                                                             d="M6.7 1l3.9 4m0 0L6.7 9m3.9-4H1"

@@ -28,7 +28,7 @@ const ContactHomePage = () => {
                     </h2>
                     <h1
                         className="styles_headline__ceRGE headline animate-headline"
-                        style={{ opacity: 1, paddingBottom: '5rem', fontSize: '20vw' }}
+                        style={{ opacity: 1, paddingBottom: '5rem', fontSize: '19vw' }}
                     >
                         <div style={{ position: 'relative', display: 'inline-block', transform: 'translate(0px, 0px)' }}>C</div>
                         <div style={{ position: 'relative', display: 'inline-block', transform: 'translate(0px, 0px)' }}>o</div>
@@ -41,7 +41,7 @@ const ContactHomePage = () => {
 
                     </h1>
 
-
+                    <p className="p-10" style={{ order: '4' }}>Contact us for any questions, assistance, or feedback—we’re here to help! Reach out via email, phone, or our online form, and we'll get back to you promptly. Let’s connect and ensure you have the best experience possible.</p>
                     <div className="styles_bottom__zJSuB">
                         <div className="styles_scroll__X10_m styles_scroll__W_lzX">
                             <svg
@@ -72,9 +72,9 @@ const ContactHomePage = () => {
             </section>
             <section
                 data-v-58b40ead
-                className="section styles_section__wwoJW  grid lg:grid-cols-3 grid-cols-1 grid-rows-2 gap-3 h-screen"
+                className="section styles_section__wwoJW  grid lg:grid-cols-3 grid-cols-1 lg:grid-rows-2 gap-3 h-screen"
             >
-                <div className=" bg-white p-9 rounded-lg col-span-2">
+                <div className=" bg-white p-9 rounded-lg lg:col-span-2">
                     <h3 className="styles_left__heading__VK6df title title-60">Follow us</h3>
                     <p className="text pl-10">
                         <a
@@ -107,7 +107,7 @@ const ContactHomePage = () => {
                         <p className="text pl-10">1213 29 St NW, Edmonton, AB T6T 1A9, Canada</p>
                     </div>
                 </div>
-                <div className=" bg-white p-9 rounded-lg lg:col-span-2 row-start-2">
+                <div className=" bg-white p-9 rounded-lg lg:col-span-2 lg:row-start-2">
                     <iframe
                         src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d152103.8460562492!2d-113.383945!3d53.439456!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53a01bd6226d342b%3A0x8cf80eb3ad840a31!2s1213%2029%20St%20NW%2C%20Edmonton%2C%20AB%20T6T%201A9%2C%20Canada!5e0!3m2!1sen!2sus!4v1732579889115!5m2!1sen!2sus"
                         width="1000"
@@ -122,65 +122,11 @@ const ContactHomePage = () => {
 
             </section >
             <section className="section">
-                <h3 className="h3 title title-60 text-center py-5 headline-outline">Get In Touch</h3>
+                <h3 className="h3 title lg:title-60 title-130  text-center py-5 headline-outline">Get In Touch</h3>
                 <ContactForm color={'white'} />
             </section>
 
-            {/* </section>
-            <section data-v-58b40ead className="bg-white bg-pattern">
-                <div data-v-c4f161bc className="contactus min-h-lview">
-                    <h2 data-v-31c4c69f className="h2 title" style={{ padding: '3rem' }}>
-                        <strong>Contact us</strong>
-                    </h2>
-                    <div data-v-c4f161bc className="beforeLg">
-                        <div className="getintouch">
-                            <div>
-                                <h3 className="h3 title">Contact</h3>
-                                <p>
-                                    <a href="tel:+17802434531">+1(306) 580-0911</a>
-                                </p>
-                                <p>
-                                    <a href="mailto:hiendcurbing@gmail.com">hiendlights@gmail.com</a>
-                                </p>
-                            </div>
-                            <div>
-                                <h3 className="h3 title">Location</h3>
-                                <p>1213 29 St NW, Edmonton, AB T6T 1A9, Canada</p>
-                                <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d152103.8460562492!2d-113.383945!3d53.439456!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53a01bd6226d342b%3A0x8cf80eb3ad840a31!2s1213%2029%20St%20NW%2C%20Edmonton%2C%20AB%20T6T%201A9%2C%20Canada!5e0!3m2!1sen!2sus!4v1732579889115!5m2!1sen!2sus"
-                                    width="800"
-                                    height="350"
-                                    style={{ border: 0 }}
-                                    allowFullScreen
-                                    loading="lazy"
-                                    referrerPolicy="no-referrer-when-downgrade"
-                                ></iframe>
-                            </div>
-                        </div>
-                        <div className="socials">
-                            <h3 className="h3 title">Follow us</h3>
-                            <ul>
-                                <li data-v-c4f161bc>
-                                    <a
-                                        data-v-0f5d0200
-                                        data-v-c4f161bc
-                                        href="https://www.instagram.com/hiend_lights/"
-                                        target="_blank"
-                                        rel="nofollow noopener noreferrer"
-                                        className="cta inline-flex items-center"
-                                    >
-                                        Instagram
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div className="w-full flex justify-center pb-16 pt-13 min-h-lview items-center flex-col">
-                    <h3 className="h3 title pb-16">Get In Touch</h3>
-                    <ContactForm color={'black'} />
-                </div>
-            </section> */}
+
             < Gradient />
             <Footer />
         </div >

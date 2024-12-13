@@ -21,8 +21,8 @@ const CurbingHome = () => {
                         className="styles_subheading__W7b9Z accent accent-40 animate-fadeinup"
                         style={{ translate: 'none', rotate: 'none', scale: 'none', letterSpacing: '0vw', transform: 'translate(0px, 0px)', opacity: 1 }}
                     >
-                        Our
-                        <br />Work
+                        Forever
+                        <br />Green
                     </h2>
                     <h1
                         className="styles_headline__ceRGE headline animate-headline"
@@ -107,7 +107,7 @@ const CurbingHome = () => {
                             </div>
                         </div>
                     </div >
-                    <div className="grid grid-cols-3 w-screen">
+                    <div className="grid lg:grid-cols-3 grid-cols-1 p-4 w-screen">
                         <div>
                             <div
                                 data-v-31c4c69f
@@ -175,9 +175,9 @@ const CurbingHome = () => {
                 className="section styles_section__wwoJW"
             >
                 <div className="flex lg:flex-row flex-col">
-                    <div >
+                    <div className="flex justify-center" >
                         <h3
-                            className="styles_left__heading__VK6df title title-60 w-[33vw] headline-outline sticky bottom-0 top-20 z-1 py-10">Base Colors</h3>
+                            className="styles_left__heading__VK6df title lg:title-60 title-130 lg:w-[33vw] headline-outline sticky bottom-0 top-20 z-1 py-10">Base Colors</h3>
                     </div>
                     <div className="styles_block__K5nIf styles_left__i3WQf">
                         <div
@@ -270,11 +270,11 @@ const CurbingHome = () => {
                 className="section styles_section__wwoJW"
             >
                 <div className="flex lg:flex-row flex-col">
-                    <div className="" >
+                    <div className="flex justify-center" >
                         <h3
-                            className="styles_left__heading__VK6df title title-60 w-[33vw] headline-outline sticky bottom-0 top-20 z-1 py-10">Stamp Colors</h3>
+                            className="styles_left__heading__VK6df title lg:title-60 title-130 lg:w-[33vw] headline-outline sticky bottom-0 top-20 z-1 py-10">Stamp Colors</h3>
                     </div>
-                    <div className="styles_block__K5nIf styles_left__i3WQf ">
+                    <div className="styles_block__K5nIf styles_left__i3WQf  ">
                         <div
                             data-v-29ecc253
                             className=" flex flex-col items-center justify-center w-full"

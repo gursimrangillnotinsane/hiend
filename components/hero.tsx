@@ -28,7 +28,7 @@ const HeroSection = () => {
                 >
                     <div style={{ position: 'relative', display: 'inline-block', transform: 'translate(0px, 0px)' }}>H</div>
                     <div style={{ position: 'relative', display: 'inline-block', transform: 'translate(0px, 0px)' }}>i</div>
-                    <br />
+                    {/* <br /> */}
                     <div style={{ position: 'relative', display: 'inline-block', transform: 'translate(0px, 0px)' }}>e</div>
                     <div style={{ position: 'relative', display: 'inline-block', transform: 'translate(0px, 0px)' }}>n</div>
                     <div style={{ position: 'relative', display: 'inline-block', transform: 'translate(0px, 0px)' }}>d</div>

@@ -75,7 +75,6 @@ export default function Gallery() {
                     >
                         <div style={{ position: 'relative', display: 'inline-block', transform: 'translate(0px, 0px)' }}>G</div>
                         <div style={{ position: 'relative', display: 'inline-block', transform: 'translate(0px, 0px)' }}>a</div>
-                        <br />
                         <div style={{ position: 'relative', display: 'inline-block', transform: 'translate(0px, 0px)' }}>l</div>
                         <div style={{ position: 'relative', display: 'inline-block', transform: 'translate(0px, 0px)' }}>l</div>
                         <div style={{ position: 'relative', display: 'inline-block', transform: 'translate(0px, 0px)' }}>e</div>
@@ -111,7 +110,7 @@ export default function Gallery() {
             </section>
 
             <section className="mx-8 p-8 bg-white rounded-xl">
-                <div className="grid grid-cols-3 gap-3">
+                <div className="grid lg:grid-cols-3 grid-cols-1 gap-3">
                     {images.map((src, index) => (
 
                         <div key={index}

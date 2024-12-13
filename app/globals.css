@@ -3699,6 +3699,7 @@ body[class*=not-touch-screen] .styles_social__mXyer svg:hover path {
 .styles_section__wwoJW .styles_right__image__w3IUx {
   /* grid-area: image; */
   width: 100%;
+  padding-top:0rem;
   padding-right: var(--block-padding)
 }
 
@@ -5427,6 +5428,8 @@ body[class*=not-touch-screen] .styles_service__KqFe6:hover .styles_service__bg__
 
   .styles_services__wrapper__O4h4A {
     display: flex;
+    flex-direction: column;
+    gap:2rem;
     margin-left: var(--grid-gap)
   }
 
@@ -6499,7 +6502,10 @@ body[class*=not-touch-screen] .styles_buzzworthy__Z4Wdh:hover .styles_logo__j1M4
 
 @media (max-width:1024px) {
   .styles_logoshape__Sq47Z {
-    display: none
+    /* display: none */
+  }
+  .styles_hero__XVQM0[data-slice-variation=homeHero] .styles_headline__ceRGE {
+    font-size: 30vw;
   }
 }
 
@@ -7084,7 +7090,7 @@ body[class*=not-touch-screen] .styles_services__WfxgC a:hover {
   }
 
   .styles_header__bar__SNNJD {
-    display: block;
+    /* display: block; */
     top: 0;
     left: 0;
     height: 70px;
@@ -8540,4 +8546,22 @@ html[dir=rtl] .formkit-outer[data-type=time] .formkit-inner:before {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+
+@media (max-width: 768px) {
+  .formkit-outer {
+    width: 100%;
+    padding: 0 1rem
+  }
+  .styles_nav__contents__VHDno{
+    padding:5rem;
+  }
+  .styles_nav__contact__S0xFm{
+    margin-top:2rem;
+  }
+}
+
+button:hover{
+  color: #5e29f9;
 }

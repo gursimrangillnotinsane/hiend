@@ -1,14 +1,17 @@
+"use client";
 import React from 'react';
-
+import { useRouter } from 'next/navigation';
 const QuoteComponent = () => {
+    const routers = useRouter();
     return (
-        <section data-header-theme="dark" className="section styles_section__xTn_6">
+        <section data-header-theme="dark" className="section styles_section__xTn_6 " style={{ paddingTop: '2rem' }}>
             <div className="styles_block__K5nIf styles_block__ZCGxM">
                 <div className="styles_logos__3Ueir">
                     <button
                         title="quote"
                         aria-label="quote"
                         className="styles_button__oaMA0 styles_button__odUtR"
+                        onClick={() => routers.push('/contactus')}
                     >
                         <svg viewBox="0 0 12 10" fill="none">
                             <path

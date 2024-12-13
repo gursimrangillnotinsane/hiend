@@ -5,7 +5,7 @@ const footer = () => {
                 className="styles_container__jRrDg"><div
                     className="styles_left__SAwSE"><p
                         className="styles_caption__X8ewY caption">Get In
-                        Touch</p><div className="accent accent-40"><p><a
+                        Touch</p><div className="accent accent-40"><p className="text"><a
                             className="styles_contactLink__dNUz1"
                             href="mailto:hiendlights@gmail.com"><span
                                 className="styles_contactLinkIcon__JhFms"><span><svg
@@ -93,19 +93,15 @@ const footer = () => {
                                         className="text"><li><a target="_blank"
                                             className="text-link-hover text-link-hover--small"
                                             rel="noreferrer"
-                                            href="https://www.linkedin.com/company/bethebuzzmarketing/">Instagram<span
+                                            href="https://www.instagram.com/hiend_lights/">Instagram<span
                                                 className="text-link-hover-underline"></span></a></li></ul></nav>
 
                     </div></div></div><div
                         className="styles_bottom__NJV1p"><small><span>Copyright © Hi-end
                             2024 / All Rights
-                            Reserved</span><br /><span><a
-                                href="https://www.bethebuzz.co/terms-and-conditions">Terms
-                                &amp; Conditions</a> and<a
-                                    href="https://www.bethebuzz.co/privacy-policy">Privacy
-                            Policy</a></span></small><small><a
+                            Reserved</span><br /></small><small><a
                                 className="styles_buzzworthy__Z4Wdh" target="_blank"
-                                href="https://buzzworthystudio.com/"><span
+                                href="https://www.forestepinfotech.com"><span
                                     className="wrap">Website by <span
                                         className="styles_label__omcnR"> Forestep
                                         Infotech</span><span

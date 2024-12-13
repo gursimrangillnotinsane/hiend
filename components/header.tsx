@@ -102,7 +102,7 @@ const Header = () => {
                                     </li>
                                 </ul>
                                 <div className="styles_nav__contact__S0xFm accent nav-item">
-                                    <p>
+                                    <p className="text">
                                         <Link href="mailto:hiendlights@gmail.co">hiendlights@gmail.com</Link>
                                     </p>
                                 </div>

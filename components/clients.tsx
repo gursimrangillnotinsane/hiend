@@ -1,10 +1,39 @@
-import React from 'react';
+"use client";
+import React, { useState, useEffect } from 'react';
+
+
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import { Navigation, Pagination, A11y } from 'swiper/modules';
 const ClientsSection = () => {
+    const [padding, setPadding] = useState('5rem');
+
+    useEffect(() => {
+        // Define a media query for smaller screens
+        const mediaQuery = window.matchMedia('(max-width: 768px)');
+
+        // Handler to update padding based on screen size
+        const updatePadding = (e: any) => {
+            if (e.matches) {
+                setPadding('1rem'); // Smaller screens
+            } else {
+                setPadding('5rem'); // Larger screens
+            }
+        };
+
+        // Add the listener for the media query
+        mediaQuery.addEventListener('change', updatePadding);
+
+        // Initialize padding based on the current screen size
+        updatePadding(mediaQuery);
+
+        // Cleanup event listener on component unmount
+        return () => {
+            mediaQuery.removeEventListener('change', updatePadding);
+        };
+    }, []);
     const testimonials = [
         {
             name: "Faheem Rashid",
@@ -73,7 +102,7 @@ Highly recommend.`}
                 spaceBetween={50}
                 slidesPerView={1}
                 className="slideshow_slideshow__s7R92 "
-                style={{ padding: '5rem' }}
+                style={{ padding: padding }}
             >
 
                 {testimonials.map((testimonial, index) => (
@@ -83,7 +112,7 @@ Highly recommend.`}
                                 <div>{testimonial.name}</div>
                             </h4>
                         </header>
-                        <div className="slideshow_slideshow-articles__sjzQn  mx-72">
+                        <div className="slideshow_slideshow-articles__sjzQn  lg:mx-72">
                             <article className="slideshow_slideshow-article__ztzrb" style={{ opacity: 1 }}>
                                 <div className="slideshow_slideshow-articleText__4F5E0 text">
                                     <div>{testimonial.text}</div>

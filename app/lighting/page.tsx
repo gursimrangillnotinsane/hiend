@@ -21,12 +21,12 @@ const LightingHome = () => {
                         className="styles_subheading__W7b9Z accent accent-40 animate-fadeinup"
                         style={{ translate: 'none', rotate: 'none', scale: 'none', letterSpacing: '0vw', transform: 'translate(0px, 0px)', opacity: 1 }}
                     >
-                        Our
-                        <br />Work
+                        Shine
+                        <br />Bright
                     </h2>
                     <h1
                         className="styles_headline__ceRGE headline animate-headline"
-                        style={{ opacity: 1, paddingBottom: '5rem', fontSize: '20vw' }}
+                        style={{ opacity: 1, paddingBottom: '5rem', fontSize: '17vw' }}
                     >
                         <div style={{ position: 'relative', display: 'inline-block', transform: 'translate(0px, 0px)' }}>L</div>
                         <div style={{ position: 'relative', display: 'inline-block', transform: 'translate(0px, 0px)' }}>i</div>
@@ -144,9 +144,9 @@ const LightingHome = () => {
                 {/* Custom House Lighting Section */}
                 <section
                     data-v-58b40ead
-                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1 gap-3 lg:h-screen h-[85vh]"
+                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1 gap-3 lg:h-screen h-[67vh]"
                 >
-                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh]">
+                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh] h-[40vh] ">
                         <div>
                             <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
                                 <h2 data-v-31c4c69f className="title title-60" style={{ padding: '1rem' }}>
@@ -181,9 +181,9 @@ const LightingHome = () => {
 
                 <section
                     data-v-58b40ead
-                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1  gap-3  lg:h-screen h-[85vh]"
+                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1 lg:h-screen gap-3 h-[67vh]"
                 >
-                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh] border-t-2 border-gray-500">
+                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh] h-[40vh]  border-t-2 border-gray-500 ">
                         <div>
                             <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
                                 <h2 data-v-31c4c69f className="title title-60" style={{ padding: '1rem' }}>
@@ -214,9 +214,9 @@ const LightingHome = () => {
                 </section>
                 <section
                     data-v-58b40ead
-                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1 gap-3  lg:h-screen h-[85vh]"
+                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1 gap-3  lg:h-screen h-[67vh]"
                 >
-                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh] border-t-2 border-gray-500">
+                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh] h-[40vh] border-t-2 border-gray-500">
                         <div>
                             <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
                                 <h2 data-v-31c4c69f className="title title-60" style={{ padding: '1rem' }}>
@@ -247,9 +247,9 @@ const LightingHome = () => {
                 </section>
                 <section
                     data-v-58b40ead
-                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1 gap-3  lg:h-screen h-[85vh]"
+                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1 gap-3  lg:h-screen h-[67vh]"
                 >
-                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh] border-t-2 border-gray-500">
+                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh] border-t-2 border-gray-500 h-[40vh]">
                         <div>
                             <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
                                 <h2 data-v-31c4c69f className="title title-60" style={{ padding: '1rem' }}>
@@ -312,23 +312,7 @@ const LightingHome = () => {
                                 ambiance
                                 and
                                 functionality.
-                                Tailored
-                                solutions
-                                to
-                                suit
-                                your
-                                style,
-                                adding
-                                elegance
-                                and
-                                precision
-                                to
-                                every
-                                corner.
-                                Get
-                                your
-                                quote
-                                today!</p>
+                            </p>
                         </strong></div><div
                             className="container beforeLg:pb-4  lg:py-6 lg:text-right lg:rtl:text-left"
                             data-reveal
