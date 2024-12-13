@@ -870,10 +870,10 @@ body[class*=is-touch-screen] .styles_service__button__GTRoA {
 
 @media (min-width:769px) {
   .styles_service__v3qbP {
-    -webkit-user-select: none;
+    /* -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
-    cursor: pointer
+    cursor: pointer */
   }
 
   .styles_service__v3qbP .styles_button__5Hsdz,
@@ -965,7 +965,7 @@ body[class*=is-touch-screen] .styles_service__button__GTRoA {
   }
 
   .styles_service__v3qbP.styles_active__6vkxR {
-    cursor: default
+    /* cursor: default */
   }
 
   .styles_service__v3qbP.styles_active__6vkxR .styles_info__zrn_z,
@@ -1197,7 +1197,7 @@ body[class*=is-touch-screen] .styles_service__button__GTRoA {
 
 @media (max-width:1024px) {
   .styles_service__v3qbP .styles_text__wlL1h {
-    display: none
+    /* display: none */
   }
 }
 

@@ -177,7 +177,7 @@ const CurbingHome = () => {
                 <div className="flex lg:flex-row flex-col">
                     <div className="flex justify-center" >
                         <h3
-                            className="styles_left__heading__VK6df title lg:title-60 title-130 lg:w-[33vw] headline-outline sticky bottom-0 top-20 z-1 py-10">Base Colors</h3>
+                            className="styles_left__heading__VK6df title lg:title-60 title-130 lg:w-[33vw] headline-outline headline sticky bottom-0 top-20 z-1 py-10">Base Colors</h3>
                     </div>
                     <div className="styles_block__K5nIf styles_left__i3WQf">
                         <div
@@ -272,7 +272,7 @@ const CurbingHome = () => {
                 <div className="flex lg:flex-row flex-col">
                     <div className="flex justify-center" >
                         <h3
-                            className="styles_left__heading__VK6df title lg:title-60 title-130 lg:w-[33vw] headline-outline sticky bottom-0 top-20 z-1 py-10">Stamp Colors</h3>
+                            className="styles_left__heading__VK6df title lg:title-60 title-130 lg:w-[33vw] headline-outline headline sticky bottom-0 top-20 z-1 py-10">Stamp Colors</h3>
                     </div>
                     <div className="styles_block__K5nIf styles_left__i3WQf  ">
                         <div

@@ -84,7 +84,7 @@ const LightingHome = () => {
                         </div>
                         <div className="styles_info__zrn_z">
                             <p className="styles_text__wlL1h text text-28">
-                                sdfsdf
+                                We offer tailored lighting solutions designed to bring your vision to life. From custom house lighting to festival and commercial setups, our designs are crafted to match your style and requirements. With premium materials and expert craftsmanship, we create lighting that is both functional and breathtaking, ensuring your space stands out.
                             </p>
                         </div>
 

@@ -122,7 +122,7 @@ const ContactHomePage = () => {
 
             </section >
             <section className="section mt-40">
-                <h3 className="h3 title lg:title-60 title-130  text-center py-5 headline-outline">Get In Touch</h3>
+                <h3 className="h3 title lg:title-60 title-130  text-center py-5 headline headline-outline">Get In Touch</h3>
                 <ContactForm color={'white'} />
             </section>
 
