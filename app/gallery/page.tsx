@@ -114,12 +114,13 @@ export default function Gallery() {
                     {images.map((src, index) => (
 
                         <div key={index}
-                            className="styles_right__image__w3IUx styles_image__TrEqJ"><div
+                            className="styles_right__image__w3IUx styles_image__TrEqJ galleryimg"><div
                                 style={{ paddingBottom: '67.71037181996086%' }}><img
                                     loading="lazy" width="511" height="346"
                                     decoding="async" data-nimg="1"
-                                    style={{ color: "transparent" }}
+                                    style={{ color: "transparent", cursor: "pointer" }}
                                     srcSet={src}
+
                                     onClick={() => openModal(index)} /></div></div>
                     ))}
                 </div>

@@ -116,172 +116,6 @@ const LightingHome = () => {
                     </div>
                 </div>
             </section>
-            <header
-                data-header-theme="light"
-                className="styles_header__0xhVU"
-                style={{ position: 'relative' }}
-            >
-                <h4 className="accent accent-40">Our lighting</h4>
-                <div style={{ width: '100%' }}>
-                    <div style={{ whiteSpace: 'nowrap', display: 'inline-block', fontSize: '14vw' }}>
-                        <h2 className="headline headline-outline animate-headline" style={{ opacity: 1 }}>
-                            <div style={{ position: 'relative', display: 'inline-block' }}>C</div>
-                            <div style={{ position: 'relative', display: 'inline-block' }}>a</div>
-                            <div style={{ position: 'relative', display: 'inline-block' }}>t</div>
-                            <div style={{ position: 'relative', display: 'inline-block' }}>e</div>
-                            <div style={{ position: 'relative', display: 'inline-block' }}>g</div>
-                            <div style={{ position: 'relative', display: 'inline-block' }}>o</div>
-                            <div style={{ position: 'relative', display: 'inline-block' }}>r</div>
-                            <div style={{ position: 'relative', display: 'inline-block' }}>i</div>
-                            <div style={{ position: 'relative', display: 'inline-block' }}>e</div>
-                            <div style={{ position: 'relative', display: 'inline-block' }}>s</div>
-                        </h2>
-                    </div>
-                </div>
-            </header>
-
-            <div>
-                {/* Custom House Lighting Section */}
-                <section
-                    data-v-58b40ead
-                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1 gap-3 lg:h-screen h-[67vh]"
-                >
-                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh] h-[40vh] ">
-                        <div>
-                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
-                                <h2 data-v-31c4c69f className="title title-60" style={{ padding: '1rem' }}>
-                                    <p>Custom House Lighting</p>
-                                </h2>
-
-                            </div>
-
-                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
-                                <div data-v-31c4c69f className="richtext mt-4">
-                                    <p>
-                                        Custom house lighting allows homeowners to tailor their lighting
-                                        solutions to fit the unique style and needs of their homes.
-                                        Whether you're designing from scratch or updating an existing
-                                        space, custom lighting brings your vision to life.
-                                    </p>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div
-                        className="styles_right__image__w3IUx styles_image__TrEqJ"><div
-                            style={{ paddingBottom: '67.71037181996086%' }}><img
-                                loading="lazy" width="511" height="346"
-                                decoding="async" data-nimg="1"
-                                style={{ color: "transparent" }}
-                                srcSet="./IMG_3850.jpg" /></div></div>
-
-                </section>
-
-                <section
-                    data-v-58b40ead
-                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1 lg:h-screen gap-3 h-[67vh]"
-                >
-                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh] h-[40vh]  border-t-2 border-gray-500 ">
-                        <div>
-                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
-                                <h2 data-v-31c4c69f className="title title-60" style={{ padding: '1rem' }}>
-                                    <p>Interior Lighting</p>
-                                </h2>
-
-                            </div>
-
-                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
-                                <div data-v-31c4c69f className="richtext mt-4">
-                                    <p>
-                                        Interior lighting plays a key role in creating a comfortable and functional living environment. It balances ambiance, aesthetics, and practicality throughout your home.
-                                    </p>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div
-                        className="styles_right__image__w3IUx styles_image__TrEqJ"><div
-                            style={{ paddingBottom: '67.71037181996086%' }}><img
-                                loading="lazy" width="511" height="346"
-                                decoding="async" data-nimg="1"
-                                style={{ color: "transparent" }}
-                                srcSet="./fengshuibed.jpg" /></div></div>
-
-                </section>
-                <section
-                    data-v-58b40ead
-                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1 gap-3  lg:h-screen h-[67vh]"
-                >
-                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh] h-[40vh] border-t-2 border-gray-500">
-                        <div>
-                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
-                                <h2 data-v-31c4c69f className="title title-60" style={{ padding: '1rem' }}>
-                                    <p>Festival Lighting</p>
-                                </h2>
-
-                            </div>
-
-                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
-                                <div data-v-31c4c69f className="richtext mt-4">
-                                    <p>
-                                        Festival lighting is designed to create a magical atmosphere during seasonal or special events. These lights are often used for decoration, creating a festive ambiance for holidays, festivals, and outdoor celebrations.
-                                    </p>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div
-                        className="styles_right__image__w3IUx styles_image__TrEqJ"><div
-                            style={{ paddingBottom: '67.71037181996086%' }}><img
-                                loading="lazy" width="511" height="346"
-                                decoding="async" data-nimg="1"
-                                style={{ color: "transparent" }}
-                                srcSet="./IMG_3553.jpg" /></div></div>
-
-                </section>
-                <section
-                    data-v-58b40ead
-                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1 gap-3  lg:h-screen h-[67vh]"
-                >
-                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh] border-t-2 border-gray-500 h-[40vh]">
-                        <div>
-                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
-                                <h2 data-v-31c4c69f className="title title-60" style={{ padding: '1rem' }}>
-                                    <p>Commercial Lighting</p>
-                                </h2>
-
-                            </div>
-
-                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
-                                <div data-v-31c4c69f className="richtext mt-4">
-                                    <p>
-                                        Commercial lighting is essential for creating a functional, efficient, and welcoming environment for customers and employees. From retail spaces to office buildings, proper lighting can increase productivity and enhance customer experience.
-                                    </p>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div
-                        className="styles_right__image__w3IUx styles_image__TrEqJ"><div
-                            style={{ paddingBottom: '67.71037181996086%' }}><img
-                                loading="lazy" width="511" height="346"
-                                decoding="async" data-nimg="1"
-                                style={{ color: "transparent" }}
-                                srcSet="./IMG-8062-scaled.webp" /></div></div>
-
-                </section>
-
-
-
-            </div>
             <section className="section sticky bottom-0 z-1 styles_section__wwoJW ">
                 <div
                     data-v-5beee3e4
@@ -331,6 +165,173 @@ const LightingHome = () => {
                                 </span></span></button></div>
                 </div>
             </section>
+            <header
+                data-header-theme="light"
+                className="styles_header__0xhVU"
+                style={{ position: 'relative' }}
+            >
+                <h4 className="accent accent-40">Our lighting</h4>
+                <div style={{ width: '100%' }}>
+                    <div style={{ whiteSpace: 'nowrap', display: 'inline-block', fontSize: '14vw' }}>
+                        <h2 className="headline headline-outline animate-headline" style={{ opacity: 1 }}>
+                            <div style={{ position: 'relative', display: 'inline-block' }}>C</div>
+                            <div style={{ position: 'relative', display: 'inline-block' }}>a</div>
+                            <div style={{ position: 'relative', display: 'inline-block' }}>t</div>
+                            <div style={{ position: 'relative', display: 'inline-block' }}>e</div>
+                            <div style={{ position: 'relative', display: 'inline-block' }}>g</div>
+                            <div style={{ position: 'relative', display: 'inline-block' }}>o</div>
+                            <div style={{ position: 'relative', display: 'inline-block' }}>r</div>
+                            <div style={{ position: 'relative', display: 'inline-block' }}>i</div>
+                            <div style={{ position: 'relative', display: 'inline-block' }}>e</div>
+                            <div style={{ position: 'relative', display: 'inline-block' }}>s</div>
+                        </h2>
+                    </div>
+                </div>
+            </header>
+
+            <div>
+                {/* Custom House Lighting Section */}
+                <section
+                    data-v-58b40ead
+                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1 gap-3 lg:h-screen h-[100vh]"
+                >
+                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh] h-[40vh] ">
+                        <div>
+                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
+                                <h2 data-v-31c4c69f className="title title-60" style={{ padding: '1rem' }}>
+                                    <p>Custom House Lighting</p>
+                                </h2>
+
+                            </div>
+
+                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
+                                <div data-v-31c4c69f className="richtext mt-4">
+                                    <p>
+                                        Custom house lighting allows homeowners to tailor their lighting
+                                        solutions to fit the unique style and needs of their homes.
+                                        Whether you're designing from scratch or updating an existing
+                                        space, custom lighting brings your vision to life.
+                                    </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div
+                        className="styles_right__image__w3IUx styles_image__TrEqJ"><div
+                            style={{ paddingBottom: '67.71037181996086%' }}><img
+                                loading="lazy" width="511" height="346"
+                                decoding="async" data-nimg="1"
+                                style={{ color: "transparent" }}
+                                srcSet="./IMG_3850.jpg" /></div></div>
+
+                </section>
+
+                <section
+                    data-v-58b40ead
+                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1 lg:h-screen gap-3 h-[100vh]"
+                >
+                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh] h-[40vh]  border-t-2 border-gray-500 ">
+                        <div>
+                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
+                                <h2 data-v-31c4c69f className="title title-60" style={{ padding: '1rem' }}>
+                                    <p>Interior Lighting</p>
+                                </h2>
+
+                            </div>
+
+                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
+                                <div data-v-31c4c69f className="richtext mt-4">
+                                    <p>
+                                        Interior lighting plays a key role in creating a comfortable and functional living environment. It balances ambiance, aesthetics, and practicality throughout your home.
+                                    </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div
+                        className="styles_right__image__w3IUx styles_image__TrEqJ"><div
+                            style={{ paddingBottom: '67.71037181996086%' }}><img
+                                loading="lazy" width="511" height="346"
+                                decoding="async" data-nimg="1"
+                                style={{ color: "transparent" }}
+                                srcSet="./fengshuibed.jpg" /></div></div>
+
+                </section>
+                <section
+                    data-v-58b40ead
+                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1 gap-3  lg:h-screen h-[100vh]"
+                >
+                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh] h-[40vh] border-t-2 border-gray-500">
+                        <div>
+                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
+                                <h2 data-v-31c4c69f className="title title-60" style={{ padding: '1rem' }}>
+                                    <p>Festival Lighting</p>
+                                </h2>
+
+                            </div>
+
+                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
+                                <div data-v-31c4c69f className="richtext mt-4">
+                                    <p>
+                                        Festival lighting is designed to create a magical atmosphere during seasonal or special events. These lights are often used for decoration, creating a festive ambiance for holidays, festivals, and outdoor celebrations.
+                                    </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div
+                        className="styles_right__image__w3IUx styles_image__TrEqJ"><div
+                            style={{ paddingBottom: '67.71037181996086%' }}><img
+                                loading="lazy" width="511" height="346"
+                                decoding="async" data-nimg="1"
+                                style={{ color: "transparent" }}
+                                srcSet="./IMG_3553.jpg" /></div></div>
+
+                </section>
+                <section
+                    data-v-58b40ead
+                    className="section styles_section__wwoJW sticky top-16 z-3 grid lg:grid-cols-2 grid-cols-1 gap-3  lg:h-screen h-[100vh]"
+                >
+                    <div className=" bg-white p-9 rounded-lg lg:h-[70vh] border-t-2 border-gray-500 h-[40vh]">
+                        <div>
+                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
+                                <h2 data-v-31c4c69f className="title title-60" style={{ padding: '1rem' }}>
+                                    <p>Commercial Lighting</p>
+                                </h2>
+
+                            </div>
+
+                            <div data-v-31c4c69f data-reveal="default" data-reveal-group="true">
+                                <div data-v-31c4c69f className="richtext mt-4">
+                                    <p>
+                                        Commercial lighting is essential for creating a functional, efficient, and welcoming environment for customers and employees. From retail spaces to office buildings, proper lighting can increase productivity and enhance customer experience.
+                                    </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div
+                        className="styles_right__image__w3IUx styles_image__TrEqJ"><div
+                            style={{ paddingBottom: '67.71037181996086%' }}><img
+                                loading="lazy" width="511" height="346"
+                                decoding="async" data-nimg="1"
+                                style={{ color: "transparent" }}
+                                srcSet="./IMG-8062-scaled.webp" /></div></div>
+
+                </section>
+
+
+
+            </div>
+
             <Gradient />
             <Footer />
 

@@ -8560,8 +8560,27 @@ html[dir=rtl] .formkit-outer[data-type=time] .formkit-inner:before {
   .styles_nav__contact__S0xFm{
     margin-top:2rem;
   }
+  #modalImage{
+    height: auto;
+  }
+  .close {
+    position: absolute;
+    top: 50px;
+    right: 10%;
+    font-size: 11vw;
+    color: white;
+    cursor: pointer;
+}
+.modal-content {
+  position: relative;
+  margin: 70% auto;
+}
 }
 
 button:hover{
   color: #5e29f9;
+}
+
+.galleryimg:hover{
+  transform: scale(1.025);
 }
