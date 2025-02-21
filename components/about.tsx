@@ -59,7 +59,7 @@ const AboutSection = () => {
                                 loading="lazy" width="511" height="346"
                                 decoding="async" data-nimg="1"
                                 style={{ color: "transparent" }}
-                                srcSet="https://hiendfinal.vercel.app/IMG_3556.jpg" /></div></div><h3
+                                srcSet="/IMG_3556.jpg" /></div></div><h3
                                     className="styles_right__heading__AuDBN title title-80">Light
                         Crafters</h3><p
                             className="styles_right__text__5DHek text">Our journey
